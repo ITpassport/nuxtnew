@@ -1,6 +1,9 @@
 <template>
-<h1>ああ</h1>
+    <div class="container-fluid">
+        <Navbar/>
+        <h1>home</h1>
+    </div>
 </template>
 
-<script setup>
+<script>
 </script>
