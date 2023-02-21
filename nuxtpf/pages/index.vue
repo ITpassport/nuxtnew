@@ -5,5 +5,8 @@
     </div>
 </template>
 
-<script>
-</script>
+<script setup>
+definePageMeta ({
+    layout:"custom",
+});
+    </script>
