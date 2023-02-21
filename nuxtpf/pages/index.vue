@@ -1,5 +1,6 @@
 <template>
-<div>
-<h1>hello wordl</h1>
-</div>
+<h1>ああ</h1>
 </template>
+
+<script setup>
+</script>
